@@ -1,0 +1,85 @@
+
+.container{
+  margin: 0;
+  padding: 0;
+}
+
+
+.navbar{
+  border-radius: 0px;
+  background-color: rgba(0,0,0,0.5);
+}
+
+.navbar-brand{/*FOOD LCC*/
+  font-size: 30px;
+  color: white;
+ 
+}
+
+.navbar-nav{
+  font-size: 20px;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-toggle{
+  border: 2px solid white;
+  margin-right: 25px;
+}
+
+
+.icon-bar{
+  background-color: white;
+}
+
+
+
+.main-title{
+  
+  margin-bottom: 15px;
+  text-align: center;
+  font-size: 50px;
+ 
+
+}
+
+
+
+li{
+  box-sizing: border-box;
+  width: 100%;
+}
+
+.menu-item{
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  background-color: white;
+  border-bottom: 1px solid black;
+  color: black;
+  display: block;
+}
+
+.menu-item:hover{
+  background-color: rgba(0,0,0,0.9);
+  color: rgba(0,0,0,0.4);
+}
+
+
+
+.item-name{/*editale*/
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+
+.content-box{/*editable*/
+  margin: 20px;
+  width: auto;
+  height: auto;
+  color: black;
+  background-color: rgba(0,0,0,0.5);
+  padding: 20px;
+}
